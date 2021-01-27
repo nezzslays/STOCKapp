@@ -3,7 +3,7 @@ import requests
 import time
 import datetime
 
-apiKey = 'bv9418748v6ord6gpe1g'
+apiKey = 'apiKey'
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
 
